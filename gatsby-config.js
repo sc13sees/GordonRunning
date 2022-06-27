@@ -2,7 +2,7 @@ module.exports = {
   pathPrefix: '/running_page', // Change to `/running_page` when running on github pages
   siteMetadata: {
     siteTitle: 'Gordon的跑步纪录',
-    siteUrl: 'https://yihong.run',
+    siteUrl: 'https://sc13sees.github.io/GordonRunning/',
     logo: 'https://s1.ax1x.com/2022/06/23/jCmO74.png',
     description: 'Personal site and blog',
     navLinks: [
