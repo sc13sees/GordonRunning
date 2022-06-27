@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: '/', // Change to `/running_page` when running on github pages
+  pathPrefix: '/running_page', // Change to `/running_page` when running on github pages
   siteMetadata: {
     siteTitle: 'Gordon的跑步纪录',
     siteUrl: 'https://yihong.run',
@@ -8,7 +8,7 @@ module.exports = {
     navLinks: [
       {
         name: 'Blog',
-        url: 'https://yihong.run/running',
+        url: 'https://sc13sees.github.io/gordonsunblog',
       },
       {
         name: 'About',
